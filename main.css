@@ -228,7 +228,7 @@ nav {
   border-right: 4px solid #fafafa;
   margin: auto;
   width: 34ch;
-  animation: typing-deleting 10s steps(34) infinite;
+  animation: typing-deleting 10s steps(36) infinite;
 }
 
 @keyframes typing-deleting {
@@ -236,10 +236,10 @@ nav {
     width: 0ch;
   }
   30% {
-    width: 34ch;
+    width: 36h;
   }
   70% {
-    width: 34ch;
+    width: 36ch;
   }
   100% {
     width: 0ch;
@@ -253,7 +253,7 @@ nav {
     color: rgba(249, 105, 14, 1);
   }
   100% {
-    width: 34ch;
+    width: 36ch;
   }
 }
 
