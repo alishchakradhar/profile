@@ -227,7 +227,7 @@ nav {
   white-space: nowrap;
   border-right: 4px solid #fafafa;
   margin: auto;
-  width: 32ch;
+  width: 34ch;
   animation: typing-deleting 10s steps(32) infinite;
 }
 
@@ -236,10 +236,10 @@ nav {
     width: 0ch;
   }
   30% {
-    width: 32ch;
+    width: 34ch;
   }
   70% {
-    width: 32ch;
+    width: 34ch;
   }
   100% {
     width: 0ch;
@@ -253,7 +253,7 @@ nav {
     color: rgba(249, 105, 14, 1);
   }
   100% {
-    width: 32ch;
+    width: 34ch;
   }
 }
 
